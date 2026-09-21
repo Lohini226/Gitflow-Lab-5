@@ -1,1 +1,3 @@
-# Gitflow Lab 5 - Develop Version
+# Gitflow Lab 5
+
+Feature and develop changes successfully merged.
